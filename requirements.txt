@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+tensorflow==2.16.1
+openpyxl
